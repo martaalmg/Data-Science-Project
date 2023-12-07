@@ -1,0 +1,44 @@
+,city,city_ascii,lat,lng,country,iso2,top_field
+17,Moscow,Moscow,55.7558,37.6178,Russia,RU,Society and Culture
+36,Paris,Paris,48.8567,2.3522,France,FR,Society and Culture
+88,Madrid,Madrid,40.4169,-3.7033,Spain,ES,Society and Culture
+116,Ankara,Ankara,39.93,32.85,Turkey,TR,Health
+159,Berlin,Berlin,52.52,13.405,Germany,DE,Society and Culture
+264,Budapest,Budapest,47.4925,19.0514,Hungary,HU,Society and Culture
+269,Kyiv,Kyiv,50.45,30.5233,Ukraine,UA,Information Technology
+281,Rome,Rome,41.8931,12.4828,Italy,IT,Society and Culture
+294,Lisbon,Lisbon,38.7253,-9.15,Portugal,PT,Architecture and Building
+411,Minsk,Minsk,53.9,27.5667,Belarus,BY,Creative Arts
+417,Vienna,Vienna,48.2083,16.3725,Austria,AT,Education
+434,Bucharest,Bucharest,44.4325,26.1039,Romania,RO,Engineering
+440,Warsaw,Warsaw,52.23,21.0111,Poland,PL,Engineering
+457,Brussels,Brussels,50.8467,4.3525,Belgium,BE,Society and Culture
+492,Stockholm,Stockholm,59.3294,18.0686,Sweden,SE,Natural and Physical Sciences
+508,Sofia,Sofia,42.7,23.33,Bulgaria,BG,Information Technology
+540,Amsterdam,Amsterdam,52.3728,4.8936,Netherlands,NL,Managemente and Commerce
+561,Belgrade,Belgrade,44.82,20.46,Serbia,RS,Creative Arts
+565,Copenhagen,Copenhagen,55.6761,12.5683,Denmark,DK,Architecture and Building
+574,Prague,Prague,50.0875,14.4214,Czechia,CZ,Society and Culture
+602,Helsinki,Helsinki,60.1708,24.9375,Finland,FI,Education
+651,Dublin,Dublin,53.35,-6.2603,Ireland,IE,Managemente and Commerce
+681,Tbilisi,Tbilisi,41.7225,44.7925,Georgia,GE,Information Technology
+705,Yerevan,Yerevan,40.1814,44.5144,Armenia,AM,Information Technology
+717,Oslo,Oslo,59.9133,10.7389,Norway,NO,Society and Culture
+775,Riga,Riga,56.9489,24.1064,Latvia,LV,Managemente and Commerce
+780,Zagreb,Zagreb,45.8167,15.9833,Croatia,HR,Managemente and Commerce
+784,Vilnius,Vilnius,54.6872,25.28,Lithuania,LT,Managemente and Commerce
+787,Chisinau,Chisinau,47.0228,28.8353,Moldova,MD,Information Technology
+789,Skopje,Skopje,41.9961,21.4317,Macedonia,MK,Creative Arts
+800,Valletta,Valletta,35.8983,14.5125,Malta,MT,Education
+801,Bratislava,Bratislava,48.1439,17.1097,Slovakia,SK,Management and Commerce
+804,Tallinn,Tallinn,59.4372,24.7453,Estonia,EE,Creative Arts
+807,Tirana,Tirana,41.3289,19.8178,Albania,AL,Information Technology
+808,Sarajevo,Sarajevo,43.8564,18.4131,Bosnia and Herzegovina,BA,Information Technology
+815,Nicosia,Nicosia,35.1725,33.365,Cyprus,CY,Food and Hospitality
+820,Ljubljana,Ljubljana,46.0514,14.5061,Slovenia,SI,Education
+834,Pristina,Pristina,42.6633,21.1622,Kosovo,XK,Information Technology
+837,Podgorica,Podgorica,42.4413,19.2629,Montenegro,ME,Creative Arts
+839,Bern,Bern,46.9481,7.4475,Switzerland,CH,Natural and Physical Sciences
+841,Reykjavík,Reykjavik,64.1467,-21.94,Iceland,IS,Education
+842,Luxembourg,Luxembourg,49.6117,6.1319,Luxembourg,LU,Managemente and Commerce
+883,Vaduz,Vaduz,47.141,9.521,Liechtenstein,LI,Architecture and Building
